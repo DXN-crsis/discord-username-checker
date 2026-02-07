@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SHOTER — Discord Username Checker
+SHOTER — Anthropic-Grade Discord Username Engine
 One-click launcher.
 """
 
@@ -14,18 +14,14 @@ def main():
     app = QApplication(sys.argv)
     app.setApplicationName("SHOTER")
     app.setStyle("Fusion")
-
-    # Apply dark theme
     app.setStyleSheet(STYLESHEET)
 
-    # Default font
     font = QFont("Segoe UI", 10)
     font.setHintingPreference(QFont.HintingPreference.PreferNoHinting)
     app.setFont(font)
 
     window = MainWindow()
     window.show()
-
     sys.exit(app.exec())
 
 

@@ -8,9 +8,9 @@ throttle, fingerprint rotation, and speculative candidate expansion.
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 
-<img src="https://img.shields.io/github/languages/top/romeo2badboy-rgb/Shoter?style=flat-square&color=3776AB" />
-<img src="https://img.shields.io/github/repo-size/romeo2badboy-rgb/Shoter?style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/romeo2badboy-rgb/Shoter?style=flat-square" />
+<img src="https://img.shields.io/github/languages/top/romeo2badboy-rgb/discord-username-checker?style=flat-square&color=3776AB" />
+<img src="https://img.shields.io/github/repo-size/romeo2badboy-rgb/discord-username-checker?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/romeo2badboy-rgb/discord-username-checker?style=flat-square" />
 
 </div>
 
